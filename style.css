@@ -254,7 +254,7 @@ section{
 .btn-color-1, 
 .btn-color-2:hover{
     background: rgb(53, 53, 53) ;
-    color: white;
+    color: white;4
 }
 
 .btn-color-1:hover{
@@ -420,4 +420,56 @@ footer {
     text-align: center;
   }
 
+  /* PROJECTS SECTION */
 
+#projects {
+  position: relative;
+}
+
+.color-container {
+  border-color: rgb(163, 163, 163);
+  background: rgb(250, 250, 250);
+}
+
+.project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
+
+.project-title {
+  margin: 1rem;
+  color: black;
+}
+
+.project-btn {
+  color: black;
+  border-color: rgb(163, 163, 163);
+}
+
+/* PROJECTS SECTION */
+
+#projects {
+    position: relative;
+}
+  
+.color-container {
+    border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+}
+  
+.project-img {
+    border-radius: 2rem;
+    width: 90%;
+    height: 90%;
+}
+  
+.project-title {
+    margin: 1rem;
+    color: black;
+}
+  
+.project-btn {
+    color: black;
+    border-color: rgb(163, 163, 163);
+}
